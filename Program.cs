@@ -3,6 +3,6 @@
 //Imprimir las notas 
 for(int  i=0; i<notas.Length; i++)
 {
-    Console.WriteLine(notas[1]);
+    Console.WriteLine(notas[i]);
 }
 
