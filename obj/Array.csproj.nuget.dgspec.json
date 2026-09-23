@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj": {}
+    "C:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj": {
+    "C:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj",
+        "projectUniqueName": "C:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "c:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj",
+        "projectPath": "C:\\Users\\Docente\\Downloads\\CSHARP\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Docente\\Downloads\\CSHARP\\Array\\obj\\",
+        "outputPath": "C:\\Users\\Docente\\Downloads\\CSHARP\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

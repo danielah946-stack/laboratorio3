@@ -1,0 +1,15 @@
+C:\Users\Docente\Downloads\CSHARP\Array\bin\Debug\net10.0\Array.exe
+C:\Users\Docente\Downloads\CSHARP\Array\bin\Debug\net10.0\Array.deps.json
+C:\Users\Docente\Downloads\CSHARP\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+C:\Users\Docente\Downloads\CSHARP\Array\bin\Debug\net10.0\Array.dll
+C:\Users\Docente\Downloads\CSHARP\Array\bin\Debug\net10.0\Array.pdb
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.sourcelink.json
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.dll
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\refint\Array.dll
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.pdb
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+C:\Users\Docente\Downloads\CSHARP\Array\obj\Debug\net10.0\ref\Array.dll
