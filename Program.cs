@@ -17,7 +17,7 @@ ImprimirNotas(notas);
 int suma=0;
 for(int  i=0; i<notas.Length; i++)
 {
-    Console.WriteLine(notas[i]);
+    suma += notas[i];
 }
 double promedio = (double)suma / notas.Length;
 Console.WriteLine($"El promedio es:{promedio}");
